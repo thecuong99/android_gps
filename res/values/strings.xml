@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGPSTracking</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Leo Meesi</string>
+	<string name="Show">Show your location!</string>
+	<string name="text">Press Show. If gps is good, edit number and send sms please.</string>
+	<string name="send">Send location with sms.</string>
+	<string name="chooser">Lua chon gui NEW SMS...</string>
+	<string name="exit">Exit</string>
+	<string name="number">+84966604999</string>
+</resources>
